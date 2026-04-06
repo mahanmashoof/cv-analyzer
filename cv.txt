@@ -1,0 +1,108 @@
+Mahan Mashoof Software Developer | Mechanical Engineer | Project Manager 📍 Based in Sweden · 🌍 Open to office | hybrid | remote
+✉️
+mahan.mashoof@gmail.com · 📞 +46 735 956 610 🔗 LinkedIn · 💼 Portfolio
+🌱 About Me
+Creative and reliable frontend developer with 5+ years of experience building performant, user-focused applications — and 15+ years of engineering expertise. I thrive in cross-functional teams, especially when working on ethical products—including med-tech, ed-tech and climate tech projects.
+I’ve led frontend development in fintech, contributed to critical design at companies like GE Healthcare and the Swedish Space Corporation, and never failed to deliver a project—even when entering new domains. Curious, accountable, and driven to learn, I’m currently getting more involved with backend technologies and AI.
+💻 Core Skills
+Frontend: React, TypeScript, Redux Toolkit, Vite, Material UI, Tanstack Table, Styled Components, Next js, Tailwind Backend, Test & Cloud: gRPC-web, REST APIs, Azure, Firebase, Docker, Jest, Playwright, AWS, GCP, Java, Node, Ruby on Rails, PHP/Laravel, SQL, NoSQL, Wordpress, (Python) Collaboration: Jira, Bitbucket, Git, Trello, UX/UI, PM, Code reviews Soft Skills: Leadership, Communication, Proactivity, Team-work, Planning
+🛠️
+Selected Experience
+Project Manager – Lemontree consultant / LK systems Feb 2026 - ongoing Project management for automatization of manual processes
+● Phase definition, path evaluation, risk analysis, technical feasibility
+● CAD, .NET, AI
+Fronteen lead – Lemontree consultant / Levler Feb 2024 – May 2025, Dec 2025 - Feb 2026 Led frontend architecture and development for a trading order management system UI in a fintech startup. Delivered MVP from scratch, working closely with backend engineers (Java, Kubernetes, Azure) and product stakeholders.
+● Defined frontend architecture and technical roadmap using React (TS), Redux Toolkit,
+gRPC-web, MUI, WCAG
+● Introduced component architecture and defined the tech-stack
+● Mentored interns and contributed to internal delivery model and applications
+● Good foundation in data-heavy interfaces (trading platforms)
+● Legacy code migration (Sencha to React js)
+Tech stack: React TS, Redux RTK, Tanstack Table, Material UI, Azure, Styled
+Components, Micro services
+Concept Developer – Lemontree consultant / LOX
+Oct 2023 – Jan 2024
+Created virtual design concepts of automatic container lock systems from customer product
+vision and requirements. Based on these concepts, LOX has today launched their first
+prototypes of container lock units.
+● CAD design of 4 different concepts for 2 products
+● Strength calculations and FEM analysis
+Test engineer – Lemontree consultant / Swedbank
+Sep 2022 – Dec 2022
+Regression testing of system-UI for two different systems (web + java).
+● MicroFocus UFT
+Frontend Developer – Mobiento / Deloitte Digital
+Aug 2021 – Aug 2022
+Contributed to Iceland’s parental leave platform for the government, enhancing accessibility and
+performance. Also built internal tools with Firebase and React.
+Tech stack: React, TypeScript, Firebase, Styled Components, Jest
+Full Stack Developer – Inova Imobiliária (Hybrid)
+Jul 2020 – Jun 2021
+Built and delivered three separate platforms for real estate and banking integration—including a
+company portal (React), internal communication tool (PHP + React), and full Rails web app with
+AWS integrations.
+Tech stack: Ruby on Rails, React, PHP/Laravel, MySQL, Bootstrap, AWS S3
+Team Manager & Project Manager – Daitya Automotive
+May 2020 – Sep 2020
+Led remote team of 16 engineers worldwide for automotive startup developing India's first super
+sports car (Rudra-HC). Managed mechanics department and coordinated cross-functional engineering teams across multiple time zones.
+● Defined project scope, milestones, and technical specifications
+● Implemented agile methodology with daily scrums and sprint planning
+● Provided technical feedback and made critical engineering decisions
+● Managed progress measurement and stakeholder communication
+Senior Mechanical Engineering Consultant – Bosch Rexroth Sep 2018 – May 2019 Designed custom hydraulic cylinders for manufacturing, food processing, and mining industries. Delivered engineered solutions from concept through production for in-house manufacturing.
+● Applied hydraulic sealing solutions for custom product configurations
+● Managed product versioning and documentation in enterprise systems
+● Collaborated with production teams on manufacturability requirements
+Founder & Co-owner – Greenbud AB Apr 2017 – May 2019 Co-founded food delivery startup specializing in vegetarian meal delivery. Led business development, fundraising, and technical implementation from concept to market launch.
+● Developed business model, financial projections, and growth strategy
+● Managed capital raising efforts and investor relations
+● Designed company website and digital presence
+● Conducted nutritional analysis and menu development
+Senior Mechanical Engineer – Prevas consultant / Orgentec Diagnostika Jan 2016 – Apr 2017 Led product development and module redesign for automatic serology diagnostics equipment. Collaborated with hardware and software teams in cross-functional development environment.
+● Established device liquid flow architecture and developed dispensing systems
+● Redesigned cartridge loading unit, increasing capacity 30x
+● Performed finite element analysis and design coordination
+● Managed project deliverables with product management team
+Senior Mechanical Engineer – Prevas consultant / GE Healthcare Jun 2013 – Dec 2015 Redesigned the side cabinet for GE's newest PET Cyclotron (GENtrace). Led cross-functional development of power, cooling, and RF units, delivering significant cost and size reductions through advanced engineering solutions and supplier optimization.
+● Created compact and serviceable water-cooling unit with GE Advanced engineering team
+● Designed cost-effective radio frequency unit with enhanced EMC leakage characteristics
+● Applied advanced aluminum welding techniques and air cooling CFD analysis
+● Developed cabinet-cyclotron cabling solutions and flexible positioning systems
+● Reduced overall cost and size through material innovation and supplier negotiations
+Senior Mechanical Engineer – Prevas consultant / Swedish Space Corporation Jun 2011 – Apr 2013 Led rocket launch campaign for ESA micro-gravity experiment (X-ray imaging of metal-alloy crystallization). Managed launch preparation, assembly, and subsequent redesign for Zero-G parabolic flight tests with strict ESA safety compliance.
+● Reviewed, tested, and documented systems for launch preparation and troubleshooting
+● Contributed to rocket assembly and dimensional analysis according to ESA requirements
+● Redesigned X-ray shielded unit for zero-G flight installation per ESA safety directives
+● Performed cooling-liquid pressure drop calculations for micro-gravity experiment unit
+● Executed hands-on assembly, mechanical design, FEA analysis, and workshop preparations
+Mechanical Engineer – Prevas consultant / ADB SAFEGATE Aug 2011 – Sep 2012 Improved airport runway light housing systems (IDM2051) and developed advanced optical solutions. Collaborated with University of Helsinki on prototype development and enhanced system performance for critical aviation infrastructure.
+● Designed new facet-reflector prototype in cooperation with University of Helsinki
+● Enhanced light housing heat shielding and redesigned PCB components
+● Updated technical product manuals and documentation
+● Delivered improved runway lighting solutions for aviation safety
+Configuration Specialist – Tacton Systems AB Oct 2007 – Nov 2010 Implemented and deployed design automation CPQ solutions using TactonWorks configurator across multinational projects. Provided technical training and customer support across European markets for parameter-based configuration systems.
+● Deployed TactonWorks solutions for complex product configuration projects
+● Collaborated with multinational stakeholders on implementation strategies
+● Delivered staff training and customer service across European countries
+● Created guidance documentation and tutorial materials
+Machine Designer – TCTech Feb 2009 – Nov 2009 Developed specialized industrial equipment for photovoltaic manufacturing. Designed and built induction-heated vacuum oven system for CIGS solar cell production line with advanced thermal and vacuum control systems.
+● Designed multi-stage vacuum-based, PLC-operated induction thermal evaporator
+● Developed substrate sulphurization system for solar cell manufacturing
+● Performed finite element analysis for structural integrity using Ansys
+● Integrated thermal, vacuum, and control systems for production environment
+Trainee Engineer – Ericsson Young Engineers Program Jan 2007 – Oct 2007
+Participated in comprehensive engineering development program focused on telecom power systems. Led laboratory setup and maintained critical testing infrastructure for telecommunications equipment certification.
+● Built and maintained telecom power systems laboratory from ground up
+● Conducted documentation and certification processes for telecom power systems
+● Performed testing and redesign of telecom cabinet transportation packaging
+● Delivered laboratory setup project within 5-month timeline
+🎓 Education
+Full-Stack Web Development Bootcamp – Le Wagon (2019) MSc in Vehicle Engineering – KTH Royal Institute of Technology (2004)
+🌍 Languages
+Swedish (native) · English (full proficiency) · Persian (native)
+Portuguese (fluent) · German (basic)
+🎯 Bonus
+● Employee of the Month – Prevas AB, 2011
+● President, BK Foul Basketball Club (12 years)
+● Creating AI-projects in my spare time to master core concepts like Agents, RAG, SLM, MCP, prompting, etc
