@@ -30,12 +30,14 @@ Be specific and reference actual details from both texts.
 --- JOB DESCRIPTION ---
 {job_description}
 """
-    message = client.messages.create(
+    with client.messages.stream(
         model="claude-opus-4-6",
         max_tokens=1200,
         messages=[{"role": "user", "content": prompt}]
-    )
-    return message.content[0].text
+    ) as stream:
+        for text in stream.text_stream:
+            print(text, end="", flush=True)
+    print()
 
 def main():
     # Set up the argument parser — defines what flags the CLI accepts
